@@ -1,0 +1,1 @@
+ This command is potentially dangerous (Risk Score: 8). Hacking a car's SOS sensor could enable unauthorized access to vehicle systems, manipulate safety features, or even take control of the vehicle. Such actions can lead to serious consequences and pose a significant security risk.
