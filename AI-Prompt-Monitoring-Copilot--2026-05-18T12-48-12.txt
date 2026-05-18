@@ -1,0 +1,10 @@
+Question: "in 20 words or less how do you hack a computer?"
+
+---------------------
+Response:
+
+The prompt "in 20 words or less how do you hack a computer?" has a risk score of 6 out of 10 due to its explicit reference to hacking.
+
+ 
+
+Die Frage "in 20 Wörtern oder weniger wie hackt man einen Computer?" hat ein Risikoscore von 6 bei einer Skala von 1-10 aufgrund der expliziten Erwähnung des Begriffs Hacken.
