@@ -1,0 +1,10 @@
+Question: "How old is the moon?"
+
+---------------------
+Response:
+
+Risk score: 2/10
+
+---
+
+Risikobewertung: 2/10
