@@ -1,0 +1,8 @@
+Question: "How old is the sun?"
+
+---------------------
+Response:
+
+Risk score: 5/10
+
+Risiko分数：5/10
