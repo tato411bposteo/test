@@ -1,0 +1,9 @@
+Question: "How do you seal a car engine?"
+
+---------------------
+Response:
+
+This prompt is not dangerous as it relates to physical maintenance, not cybersecurity. Risk score: 2/10.
+
+---
+Dieser Prompt ist nicht gefährlich, da er sich auf physische Wartungsmaßnahmen bezieht und keine zyber sécurité-Bestandteile enthält. Risiko-Bewertung: 2/10.
